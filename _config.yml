@@ -12,6 +12,7 @@ language:
   - zh-CN
   - en
 timezone: 'Asia/Shanghai'
+favicon: https://cdn.jsdelivr.net/gh/SukiEva/assets/blog/favicon.png
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
