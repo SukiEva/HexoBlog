@@ -10,9 +10,11 @@ keywords:
 author: SukiEva
 language:
   - zh-CN
+  - zh-HK
+  - zh-TW
   - en
 timezone: 'Asia/Shanghai'
-favicon: https://cdn.jsdelivr.net/gh/SukiEva/assets/blog/favicon.png
+favicon: https://cdn.jsdelivr.net/gh/SukiEva/HexoBlog/source/static/images/favicon.ico
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
