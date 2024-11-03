@@ -16,6 +16,7 @@ navbar:
 
     - name: 导航
       icon: fa-duotone fa-fan fa-spin PETERRIVE
+      url: https://sukiu.top
       rows:
         - name: 分类
           icon: fa-duotone fa-folder-open SUNFLOWER
