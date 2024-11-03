@@ -44,7 +44,7 @@ navbar:
 cover:
   height_scheme: full # full, half
   layout_scheme: search # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
-  background: static/images/background.webp
+  background: https://cdn.jsdelivr.net/gh/SukiEva/HexoBlog/source/static/images/background.webp
   display:
     home: true
     archive: true
@@ -93,7 +93,7 @@ article:
     bottom_meta: [category, tags]
     meta_library:
       author:
-        avatar: static/images/avatar.jpg
+        avatar: https://cdn.jsdelivr.net/gh/SukiEva/HexoBlog/source/static/images/avatar.jpg
         name: SukiEva
         url: /
       # 文章创建日期
@@ -191,7 +191,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop]
-      avatar: static/images/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/SukiEva/HexoBlog/source/static/images/avatar.jpg
       shape: rectangle # circle, rectangle
       title: #SukiEva
       subtitle: #Developer
