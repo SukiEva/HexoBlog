@@ -1,0 +1,44 @@
+// 导航栏拉平
+.l_header
+  @media screen and (max-width: $device-2k)
+    left: 0 !important
+    border-radius: 0 !important
+    max-width: 100% !important
+
+// 主页
+.post-wrapper
+  .article-title
+    font-weight: bold
+    font-size: 2rem
+  .readmore
+    color: #888
+
+// 文章大标题美化
+#l_main
+  .post
+    h1.title
+      font-size: 2.5rem
+      font-weight: bold
+      text-align: center
+      color: var(--color-h1)
+      & >
+        position: relative
+        display: inline-block
+      &:after
+        content: ''
+        display: block
+        position: absolute
+        border-top: 3px double var(--color-h1)
+        height: 3px
+        width: 15rem
+        max-width: 80%
+        left: 50%
+        transform: translateX(-50%)
+
+// 参考资料
+#post
+  div.footer
+    div.references
+      section.header
+        font-weight: bold
+        font-size: 1.3rem
