@@ -403,8 +403,18 @@ custom_css:
   body:
     effect: [] # [shadow, floatable, blur]
   fontfamily:
+    logofont:
+      fontfamily: 'JetBrains Mono'
+      name: 'JetBrains Mono'
+      url: https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf
+    bodyfont:
+      fontfamily: 'HarmonySansSC'
+      name: 'HarmonySansSC'
+      url: https://cdn.jsdelivr.net/gh/SukiEva/HexoBlog/source/static/fonts/HarmonySansSC.ttf
     codefont:
       fontfamily: 'JetBrains Mono'
+      name: 'JetBrains Mono'
+      url: https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf
 ############################### Custom css ################################### > end
 
 ############################### Color Scheme ################################# > start
