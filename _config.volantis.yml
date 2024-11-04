@@ -465,4 +465,18 @@ analytics:
   leancloud:
     app_id: 60Pgr6NOujhBha2UCa8PId6g-MdYXbMMI
     app_key: vkpRJpKQC8VIG9YnYzC9toy2
+
+custom_files:
+  first: source/_volantis/style/first.styl
+  style: source/_volantis/style/style.styl
+  dark: source/_volantis/style/dark.styl
+  darkVar: source/_volantis/style/darkVar.styl
+  headBegin: source/_volantis/inject/headBegin.ejs
+  headEnd: source/_volantis/inject/headEnd.ejs
+  header: source/_volantis/inject/header.ejs
+  topMeta: source/_volantis/inject/topMeta.ejs
+  bottomMeta: source/_volantis/inject/bottomMeta.ejs
+  postEnd: source/_volantis/inject/postEnd.ejs
+  bodyBegin: source/_volantis/inject/bodyBegin.ejs
+  bodyEnd: source/_volantis/inject/bodyEnd.ejs
 ############################################################################## > end

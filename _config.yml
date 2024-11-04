@@ -114,3 +114,7 @@ feed:
   enable: true
   type: atom
   path: rss.xml
+
+# hexo-extend-theme
+theme_plus:
+  custom_path: source/_volantis/layout
