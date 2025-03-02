@@ -1,7 +1,7 @@
 ---
 title: Spring
 toc: true
-categories: [Framework,SSM]
+categories: [Framework,Spring]
 tags: 
 	- SSM
 date: 2022-07-05 09:08

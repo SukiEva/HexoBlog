@@ -1,7 +1,7 @@
 ---
 title: 从Groovy迁移到KTS
 date: 2021-09-25 22:29
-categories: [Android,Gradle]
+categories: [Build Tools, Gradle]
 tag: Gradle
 toc: true
 updated: 2021-09-25 22:29

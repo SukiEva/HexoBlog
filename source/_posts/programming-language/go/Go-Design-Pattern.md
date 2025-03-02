@@ -3,7 +3,7 @@ title: Go的设计模式
 tags:
   - Go
   - Patterns
-categories: [System Design,Design Pattern]
+categories: [Programming Language,Go]
 toc: true
 date: 2022-02-23 11:19
 updated: 2022-02-23 11:19

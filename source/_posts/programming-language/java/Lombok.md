@@ -726,9 +726,7 @@ public class WithExample {
 @Log4j
 //=
 private static final org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(LogExample.class);
-```
 
-```java
 @Slf4j
 //=
 private static final org.slf4j.Logger log = org.slf4j.LoggerFactory.getLogger(LogExample.class);

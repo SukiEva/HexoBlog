@@ -1,7 +1,7 @@
 ---
 title: Spring Boot 注解
 toc: true
-categories: [Framework,SSM]
+categories: [Framework,Spring]
 tags: SSM
 date: 2022-07-07 11:35
 updated: 2022-07-11 12:59

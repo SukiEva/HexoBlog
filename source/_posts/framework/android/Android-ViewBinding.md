@@ -3,7 +3,7 @@ title: Android ViewBinding
 date: 2021-09-27 22:29
 tags:
   - Component
-categories: Android
+categories: [Framework,Android]
 toc: true
 updated: 2021-09-27 22:29
 references:

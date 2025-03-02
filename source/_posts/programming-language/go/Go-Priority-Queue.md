@@ -3,7 +3,7 @@ title: Go中的优先队列
 date: 2021-11-01 22:13
 tags:
   - Queue
-categories: [Computer Basics,Data Structure]
+categories: [Programming Language,Go]
 toc: true
 updated: 2021-11-01 22:13
 references:

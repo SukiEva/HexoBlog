@@ -3,7 +3,7 @@ title: Gradle Build 构建配置
 date: 2021-09-26 20:02
 tags:
   - Gradle
-categories: [Android,Gradle]
+categories: [Build Tools, Gradle]
 toc: true
 updated: 2021-09-26 20:02
 references:

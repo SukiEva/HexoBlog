@@ -3,7 +3,7 @@ title: Android四大组件之Activity
 date: 2021-09-28 08:45
 tags:
   - Component
-categories: Android
+categories: [Framework,Android]
 toc: true
 updated: 2021-09-28 08:45
 references:

@@ -3,7 +3,7 @@ title: Jetpack ViewModel
 date: 2021-09-30 08:58
 tags:
   - Jetpack
-categories: [Android,Jetpack]
+categories: [Framework,Android]
 toc: true
 updated: 2021-09-30 08:58
 references:

@@ -3,7 +3,7 @@ title: Android四大组件之BroadcastReceiver
 date: 2021-09-28 19:37
 tags:
   - Component
-categories: Android
+categories: [Framework,Android]
 toc: true
 updated: 2021-09-28 19:37
 references:

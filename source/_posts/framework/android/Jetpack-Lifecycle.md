@@ -3,7 +3,7 @@ title: Jetpack Lifecycle
 date: 2021-10-01 19:37
 tags:
   - Jetpack
-categories: [Android,Jetpack]
+categories: [Framework,Android]
 toc: true
 updated: 2021-10-01 19:37
 references:

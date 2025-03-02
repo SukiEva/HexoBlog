@@ -3,7 +3,7 @@ title: Jetpack Compose
 date: 2021-09-29 21:30
 tags:
   - Jetpack
-categories: [Android,Jetpack]
+categories: [Framework,Android]
 toc: true
 updated: 2021-09-29 21:30
 ---

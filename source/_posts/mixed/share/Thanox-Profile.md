@@ -4,7 +4,7 @@ toc: true
 date: 2021-11-17 10:04
 tags:
   - Thanox
-categories: Mixed
+categories: [Mixed,Share]
 updated: 2022-06-25 16:26
 references:
   - title: Thanox 情景模式官方文档

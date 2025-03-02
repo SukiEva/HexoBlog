@@ -3,7 +3,7 @@ title: Android四大组件之Service
 date: 2021-10-01 08:18
 tags:
   - Component
-categories: Android
+categories: [Framework,Android]
 toc: true
 updated: 2021-10-01 08:18
 references:

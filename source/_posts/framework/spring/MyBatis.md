@@ -1,7 +1,7 @@
 ---
 title: MyBatis
 toc: true
-categories: [Framework,SSM]
+categories: [Framework,Spring]
 tags: 
 	- MyBatis
 	- SSM
